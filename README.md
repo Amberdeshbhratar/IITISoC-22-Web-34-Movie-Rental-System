@@ -5,4 +5,4 @@ User can know details about the movie like rating , director , runtime , price a
 User and also signup in our website.If the user gives the wrong credentials he person will not able to enter in website by that username . In login page user can login and signup by giving their username and password .
 User can buy and rent any movie  through payment gateway .
 Link of the hosted website:
-http://moviebazaar.pythonanywhere.com/
+http://moviebazaar1.pythonanywhere.com/

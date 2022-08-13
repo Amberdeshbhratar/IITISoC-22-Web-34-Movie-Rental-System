@@ -12,6 +12,9 @@ def contactus(request):
 def about(request):
     return render(request,'about.html')
 
+def reaction(request):
+    return render(request,'reaction.html')
+
 
 def logout(request):
     auth.logout(request)

@@ -45,7 +45,7 @@ li {
 .parent{
     display: flex;
     flex-wrap: wrap; 
-    margin-left: 2cm;
+    margin-left: 5px;
     border-color: aliceblue;
     position: relative;
     
@@ -216,11 +216,11 @@ footer{
         grid-row-end: 3;
     }
 
-    @media(max-width: 450px){
+    /* @media(max-width: 450px){
         .detail2{
             display: none;
         }
-    }
+    } */
     @media(max-width: 720px){
         .footSocial{
           grid-column-start: 4;
